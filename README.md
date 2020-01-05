@@ -18,7 +18,7 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-"
+```html
 wget https://raw.githubusercontent.com/johndesu090/OVPNAUTH/master/install.sh && chmod +x install.sh && ./install.sh
-"
+```
 </p>
