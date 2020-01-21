@@ -2,8 +2,7 @@
 <h1 align="center">OPENVPN AUTH SCRIPT<img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h1>
 
 <p align="center">OPENVPN AUTH SCRIPT is made by FordSenpai to minimize the time consumed and user involvement in setting up your VPS</p>
-<p align="center">[Donations] GCASH: 09206200840 PAYPAL: johnford090@gmail.com FACEBOOK: John Ford Mangiliman</p>
-<p align="center">Facebook Support Link: https://www.facebook.com/johndesu090</p>
+<p align="center">Facebook Support Link: https://www.facebook.com/sherwin.cariaga.7</p>
 
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
@@ -23,7 +22,7 @@
 <p align="center">
   
   ```html
-wget https://raw.githubusercontent.com/johndesu090/OVPNAUTH/master/install.sh && chmod +x install.sh && ./install.sh
+copy this link: yourlinkhere and paste it in to your app strings.xml line 316
   ```
 
 </p>
