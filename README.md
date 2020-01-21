@@ -22,7 +22,7 @@
 <p align="center">
   
   ```html
-copy this link: yourlinkhere and paste it in to your app strings.xml line 316
+copy this link: https://raw.githubusercontent.com/wengski023/OVPNAUTH/master/servers.js and paste it in to your app strings.xml line 316
   ```
 
 </p>
